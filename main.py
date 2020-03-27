@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import nhentai
 import random
-import json
 
 codes = [290886, 235660, 236509, 201814, 244327, 177674, 250164, 198832, 185387, 205089, 255015, 140870, 297974]
 
